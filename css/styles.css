@@ -63,3 +63,9 @@ ol {
     width: 975px;
     margin: 40px auto;
 }
+
+.center {
+    
+    display: block;
+    text-align: center;
+}
