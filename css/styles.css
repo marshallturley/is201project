@@ -1,6 +1,5 @@
 .homeBG {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cleveland_Guardians_cap_logo.svg/2048px-Cleveland_Guardians_cap_logo.svg.png');
-    /* background-image: url('https://wallpapers.com/images/hd/cleveland-guardians-minimalist-text-wygl6dv5617jj1qi.jpg'); */
     background-size: 100px;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -58,4 +57,9 @@ ol {
 .video {
     display: flex;
     justify-content: center;
+}
+
+.tableau-container {
+    width: 800px;
+    margin: 40px auto;
 }
