@@ -1,0 +1,61 @@
+.homeBG {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cleveland_Guardians_cap_logo.svg/2048px-Cleveland_Guardians_cap_logo.svg.png');
+    /* background-image: url('https://wallpapers.com/images/hd/cleveland-guardians-minimalist-text-wygl6dv5617jj1qi.jpg'); */
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: gainsboro;
+}
+
+a {
+    color: #E50022;
+}
+
+a:hover {
+    color: #B2001B;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #00385d;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+/* .main-nav {
+    background-color: #00385d;
+} */
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+ol {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.award{
+    margin-top: 7px;
+    font-weight: bold;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
